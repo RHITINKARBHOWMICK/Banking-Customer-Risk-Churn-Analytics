@@ -293,6 +293,15 @@ Includes:
 -   Customer risk detail table
 -   Interactive slicers
 
+
+
+
+
+
+
+<img width="1381" height="733" alt="Screenshot 2026-08-31 134957" src="https://github.com/user-attachments/assets/5bfba7ed-1f7b-4c99-b519-af9398e81dc3" />
+
+
   ## Page 2 --- Customer Churn Drivers
 
 > **What characteristics are associated with churn?**
@@ -310,6 +319,13 @@ Interactive filters allow users to explore churn patterns across
 customer segments.
 
 
+<img width="1304" height="727" alt="Screenshot 2026-08-31 135017" src="https://github.com/user-attachments/assets/987c5aa2-17d6-4fd4-bac4-45cdde49b9a1" />
+
+
+
+
+
+
 ## Page 3 --- Risk & Retention Strategy
 **Who should the bank prioritize for retention?**
 Includes:
@@ -325,6 +341,13 @@ Includes:
 -   Customer Base & Historical Churn by Risk Segment
 -   Retention Action Plan
 -   High-Risk Customer Detail table
+
+
+<img width="1373" height="733" alt="Screenshot 2026-08-31 135113" src="https://github.com/user-attachments/assets/5c46adb5-68e8-44f4-907e-0dd672665ff0" />
+
+
+
+
 
   # 💡 Business Recommendations
 
